@@ -1,0 +1,13 @@
+/.vscode
+/archive
+/assets
+/docs
+/node_modules
+/src
+/.env.example
+/.eslintignore
+/.eslintrc.json
+/.gitignore
+/.firebase.example.json
+/README.md
+/tsconfig.json

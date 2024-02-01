@@ -1,0 +1,18 @@
+{
+    "description": {
+        "en-US": [
+            "### Hello var(user), I'm SlaveBot",
+            "`/help` **for more commands**",
+            "or join our var(server)"
+        ],
+        "pt-BR": [
+            "### Seja bem vindo var(user), eu sou SlaveBot",
+            "`/help` **para mais comandos**",
+            "ou junte-se ao nosso var(server)"
+        ]
+    },
+    "footer": {
+        "en-US": "by var(github)",
+        "pt-BR": "por var(github)"
+    }
+}
