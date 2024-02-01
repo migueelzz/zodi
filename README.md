@@ -3,9 +3,9 @@
 This is a bot project to facilitate the discord community, it is an open source project.
 Join us if you feel free to contribute and help improve the zodi
 
-## Add Zodi to your server
-
-[click here to add it to your server](https://discordapp.com/oauth2/authorize?&client_id=1200279180525449317&scope=bot)
+> Add Zodi to your server
+>
+> [click here to add it to your server](https://discordapp.com/oauth2/authorize?&client_id=1200279180525449317&scope=bot)
 
 ### creators
 
